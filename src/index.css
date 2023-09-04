@@ -1,0 +1,20 @@
+/* --- RESET --- */
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+h1, p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+}
